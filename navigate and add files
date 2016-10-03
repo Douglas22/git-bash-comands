@@ -1,0 +1,31 @@
+##navigation
+
+#to go down a dirctory into a folder use
+cd <folder name>
+#ie if your in C/documents and do
+cd textfolder
+#your now in C/documents/textfolder
+
+#to go up one directory ie from C/documents/textfolder to C/documents you can use
+cd ..
+#now your in C/documents
+
+
+##adding files
+
+#to add all files in the current directory
+git add .
+
+#to add specific types of file specify the file ending ie
+git add .txt
+#or 
+git add .gitignore
+#witch will add all text or the gitignore files 
+
+
+##checks
+#to check folders in working directory 
+ls -m
+
+#to check what files and folders are tracked or untracked use
+git status
