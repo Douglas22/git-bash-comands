@@ -1,6 +1,6 @@
 ##navigation
 
-#to go down a dirctory into a folder use
+#to go down a directory into a folder use
 cd <folder name>
 #ie if your in C/documents and do
 cd textfolder
@@ -24,8 +24,22 @@ git add .gitignore
 
 
 ##checks
+
+#to check the working directory you in ie C/documents
+pwd
+
 #to check folders in working directory 
 ls -m
 
-#to check what files and folders that are one stage lower in the working directory are tracked or untracked use
+#to check what files and folders that are one stage lower in the working directory is tracked or untracked use
 git status
+
+
+##reposatorys
+
+#to create a repository on your device
+git init
+
+#local repositories
+#create an empty local repository on git hub to push your code to (note to self find how to do this from git bash)
+
