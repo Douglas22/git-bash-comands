@@ -27,5 +27,5 @@ git add .gitignore
 #to check folders in working directory 
 ls -m
 
-#to check what files and folders are tracked or untracked use
+#to check what files and folders that are one stage lower in the working directory are tracked or untracked use
 git status
