@@ -13,7 +13,7 @@ cd ..
 
 ##adding files
 
-#to add all files in the current directory
+#to add all files in the current directory to the stageing area (of the current repository??) so they are tracked      ???
 git add .
 
 #to add specific types of file specify the file ending ie
@@ -21,6 +21,9 @@ git add .txt
 #or 
 git add .gitignore
 #witch will add all text or the gitignore files 
+
+#to comit changes (-m ?)to the local repository     ??? (precise meaning of -m -b ect to add to next layer of notes)
+git commit -m "message discribing any changes to being comitted"
 
 
 ##checks
@@ -37,9 +40,17 @@ git status
 
 ##reposatorys
 
-#to create a repository on your device
+#to create a repository on your device in the curent directory refered to as master
 git init
 
 #local repositories
 #create an empty local repository on git hub to push your code to (note to self find how to do this from git bash)
 
+#to commit tracked changes
+git commit -m
+
+#to push code from the repositoy your in to you repository on github                      ????? 
+git push <the github repository url>
+
+Short git tutorial
+https://try.github.io
