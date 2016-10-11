@@ -47,10 +47,11 @@ git init
 #create an empty local repository on git hub to push your code to (note to self find how to do this from git bash)
 
 #to commit tracked changes
-git commit -m
+git commit -m "what ever mesage you feel is relavent to the commit"
 
 #to push code from the repositoy your in to you repository on github                      ????? 
-git push <the github repository url>
+git push -u <the github repository url>    master
+
 
 Short git tutorial
 https://try.github.io
