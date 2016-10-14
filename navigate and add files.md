@@ -1,7 +1,7 @@
 #navigation
 
 ##to go down a directory into a folder use
-cd <folder name>
+        cd <folder name>
 ##ie if your in C/documents and do
 cd textfolder
 ##your now in C/documents/textfolder
