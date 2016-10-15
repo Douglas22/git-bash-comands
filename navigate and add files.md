@@ -7,6 +7,7 @@ ie if your in C/documents and do
 your now in C/documents/textfolder
 
 to go up one directory ie from C/documents/textfolder to C/documents you can use
+
         cd ..
 now your in C/documents
 
