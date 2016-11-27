@@ -66,8 +66,17 @@ to push code from the repositoy your in to you repository on github             
         git push -u <the github repository url>    master
 
 
-Short git tutorial
+
+
+If new to GitHub make a GitHub acount
+https://github.com/
+
+install git bash
+
+
+Short git comand practice
 https://try.github.io
 
 Git bash navigation deminstration
 https://www.youtube.com/watch?v=VXbBjr3qmUE&feature=youtu.be
+
