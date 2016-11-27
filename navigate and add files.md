@@ -68,3 +68,6 @@ to push code from the repositoy your in to you repository on github             
 
 Short git tutorial
 https://try.github.io
+
+Git bash navigation deminstration
+https://www.youtube.com/watch?v=VXbBjr3qmUE&feature=youtu.be
